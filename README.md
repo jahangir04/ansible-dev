@@ -1,5 +1,5 @@
 # ansible-dev
-Learning to track my code for ansible development
+How to track my code for ansible development
 # ansible-dev (Project Title)
  
  One paragraph of your project description goes here. Describe what you're trying to do.
